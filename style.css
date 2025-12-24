@@ -124,7 +124,7 @@ marquee{
     transition: background-color 0.3s ease;
 }
 
-.btn1:focus{
+.btn1:active{
     background-color: #dc3545 !important;
     color: #ffffff !important;
 }
@@ -142,7 +142,7 @@ marquee{
     transition: background-color 0.3s ease;
 }
 
-.btn2:focus{
+.btn2:active{
     background-color: darkturquoise !important;
     color: #000000 !important;
 }
